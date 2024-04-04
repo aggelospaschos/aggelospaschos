@@ -2,7 +2,9 @@
 I'm [Aggelos](https://www.linkedin.com/in/aggelos-paschos), an aspiring-to-be engineer and innovator. Passionate about diving deep into programming, with a focus on building practical solutions and exploring cutting-edge technologies. Aspiring to become a practical and efficient problem solver and innovator in the tech industry. 
 
 -- Strong backbone with object oriented programming, logic programming, data analysis and manipulation and data structures and algorithms
+
 -- Right now, I'm exploring the concepts of functional programming, and start to dive in advanced algorithms, system design and web development
+
 -- My initial goal for the future is to thrive in AI, but we all start from somewhere
 
 
